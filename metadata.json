@@ -1,0 +1,6 @@
+{
+  "name": "Beat Studio",
+  "description": "Offline Hinglish music creation studio with real-time synthesized drums, instruments, piano roll, mixer, effects, and WAV/M4A/MIDI export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

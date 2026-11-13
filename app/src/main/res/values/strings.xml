@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Beat Studio</string>
+    <string name="export_channel_name">Beat Export</string>
+    <string name="export_channel_desc">Offline audio aur MIDI export progress</string>
+</resources>
